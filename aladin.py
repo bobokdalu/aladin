@@ -6,7 +6,7 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.5)
-mengetik("\033[1;31m\nbobokdalu spam tool\033[1;31m\n ")
+mengetik("\033[1;31m\nbobokdalu spam tool V.1\033[1;31m\n ")
 time.sleep(1)
 print("\033[1;31m\033[1;32m* \033[1;31mBy  \033[1;93m: \033[1;37mbobokdalu \033[1;31m\n")
 print("\033[1;31m\033[1;32m* \033[1;31mYT  \033[1;93m: \033[1;37m\033[4m**********\033[0m \033[1;31m    \n")
